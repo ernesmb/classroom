@@ -1,2 +1,2 @@
 # classroom
-A repo for educating resources
+A repo for educational resources
